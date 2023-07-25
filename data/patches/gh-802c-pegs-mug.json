@@ -1,0 +1,100 @@
+{
+	"id": 2361,
+	"name": "PEGS Mug",
+	"description": "A mug of coffee made by the offline chat community of the Twitch streamer Philza. They are known as Philza's Early Gang Society, PEGS, peggers(cursed nickname), and Early gang. The mug is modeled after the mug featured in Philza's sub emote ph1lEarly as that emote was added for Early gang.\n\nThe two among us inside the coffee is a reference to the same mug made during r/place 22'",
+	"links": {
+		"website": [
+			"https://www.twitch.tv/philza",
+			"https://youtube.fandom.com/wiki/Ph1LzA"
+		],
+		"subreddit": [
+			"Philza"
+		]
+	},
+	"path": {
+		"103-258": [
+			[
+				-592,
+				-99
+			],
+			[
+				-594,
+				-97
+			],
+			[
+				-594,
+				-94
+			],
+			[
+				-596,
+				-94
+			],
+			[
+				-599,
+				-91
+			],
+			[
+				-599,
+				-85
+			],
+			[
+				-596,
+				-82
+			],
+			[
+				-594,
+				-82
+			],
+			[
+				-594,
+				-81
+			],
+			[
+				-592,
+				-79
+			],
+			[
+				-581,
+				-79
+			],
+			[
+				-579,
+				-81
+			],
+			[
+				-579,
+				-97
+			],
+			[
+				-581,
+				-99
+			],
+			[
+				-584,
+				-99
+			],
+			[
+				-583,
+				-99
+			],
+			[
+				-583,
+				-99
+			],
+			[
+				-583,
+				-99
+			],
+			[
+				-583,
+				-99
+			]
+		]
+	},
+	"center": {
+		"103-258": [
+			-587,
+			-89
+		]
+	}
+}
